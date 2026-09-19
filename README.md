@@ -1,6 +1,6 @@
 # 🌐 Networking Fundamentals: Basics to Advanced
 
-A comprehensive, structured learning path for mastering computer networking from ground zero to advanced concepts. This repository serves as both a study guide and practical reference for anyone looking to understand how networks work.
+A comprehensive, structured learning path for mastering computer Networking from ground zero to advanced concepts. This repository serves as both a study guide and practical reference for anyone looking to understand how networks work.
 
 ## 📋 Table of Contents
 
@@ -23,7 +23,7 @@ This repository contains:
 - **Code Examples**: Real-world implementations in Python and other languages
 - **Visual Guides**: Diagrams and flowcharts for complex concepts
 - **Interview Prep**: Common networking questions and answers
-- **Cheat Sheets**: Quick reference guides for protocols and commands
+- **Cheat Sheets**: Quick reference guides for protocols and commands.
 
 ### What You'll Learn:
 ✅ OSI Model & TCP/IP Model  
